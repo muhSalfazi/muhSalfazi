@@ -1,16 +1,23 @@
-### Hi there 👋
+# Halo, Dunia! 👋
 
-<!--
-**muhSalfazi/muhSalfazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tentang Saya
 
-Here are some ideas to get you started:
+Saya adalah seorang Muhamad Salman Fauzi, seorang Mahasiswa dengan minat dalam web development. Saya percaya bahwa teknologi dapat membawa perubahan positif dalam kehidupan orang-orang dan saya berkomitmen untuk menyumbangkan bagian saya dalam mewujudkannya.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minat
+
+- 🚀 Pengembangan Perangkat Lunak: Saya suka mengeksplorasi teknologi terbaru dan menciptakan solusi inovatif.
+- 🎨 Desain UX/UI: Saya menghargai keindahan dalam desain dan percaya bahwa pengalaman pengguna yang baik adalah kunci kesuksesan sebuah produk.
+
+## Proyek Terbaru
+
+- 🌐 [De'unguLaundry](https://ungulaundry.com/):untuk memudahkan transaksi+stok barang(php native)
+
+## Temukan Saya
+
+Anda bisa menemukan saya di beberapa platform online:
+
+- 💼 [Instagram](https://www.instagram.com/muh.salfazi/):sosial media.
+- 🐦 [discord](https://discord.com/invite/nnXW5mPe): Untuk berbagi pemikiran dan pengalaman.
+- 🌐 [Website Pribadi](https://muhsalfazi-portofolio.netlify.app/)
+
