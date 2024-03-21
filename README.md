@@ -1,3 +1,6 @@
+<!-- Warna latar belakang -->
+<div style="background-color:#f2f2f2; padding: 20px; border-radius: 10px;">
+
 # Halo, Dunia! 👋
 
 ## Tentang Saya
@@ -17,4 +20,7 @@ Anda bisa menemukan saya di beberapa platform online:
 - 🐦 [Discord](https://discord.com/invite/nnXW5mPe): Untuk berbagi pemikiran dan pengalaman.
 - 🌐 [Portofolio](https://muhsalfazi-portofolio.netlify.app/)
 
+<!-- Animasi bintang bergerak -->
+![Bintang Bergerak](https://media.giphy.com/media/26BRv0ThflsHC2P0E/giphy.gif)
 
+</div>
