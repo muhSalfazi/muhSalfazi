@@ -11,13 +11,16 @@ Saya adalah seorang Muhamad Salman Fauzi, seorang Mahasiswa dengan minat dalam w
 
 ## Proyek Terbaru
 
-- 🌐 [De'unguLaundry](https://ungulaundry.com/):untuk memudahkan transaksi+stok barang(php native)
+- 🌐 [De'unguLaundry](https://ungulaundry.com/): Untuk memudahkan transaksi+stok barang (php native).
 
 ## Temukan Saya
 
 Anda bisa menemukan saya di beberapa platform online:
 
-- 💼 [Instagram](https://www.instagram.com/muh.salfazi/):sosial media.
-- 🐦 [discord](https://discord.com/invite/nnXW5mPe): Untuk berbagi pemikiran dan pengalaman.
+- 💼 [Instagram](https://www.instagram.com/muh.salfazi/): Untuk sosial media.
+- 🐦 [Discord](https://discord.com/invite/nnXW5mPe): Untuk berbagi pemikiran dan pengalaman.
 - 🌐 [Portofolio](https://muhsalfazi-portofolio.netlify.app/)
 
+Jangan ragu untuk menghubungi saya jika Anda tertarik berkolaborasi atau sekadar bertukar pikiran tentang teknologi dan inovasi! 😊
+
+![Bintang Bergerak](https://media.giphy.com/media/26BRv0ThflsHC2P0E/giphy.gif)
