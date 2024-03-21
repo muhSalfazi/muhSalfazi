@@ -1,5 +1,5 @@
 <!-- Warna latar belakang -->
-<div style="background-color:#f2f2f2; padding: 20px; border-radius: 10px;">
+<div style="padding: 20px; border-radius: 10px; border: 2px solid #333;">
 
 # Halo, Dunia! 👋
 
@@ -20,5 +20,7 @@ Anda bisa menemukan saya di beberapa platform online:
 - 🐦 [Discord](https://discord.com/invite/nnXW5mPe): Untuk berbagi pemikiran dan pengalaman.
 - 🌐 [Portofolio](https://muhsalfazi-portofolio.netlify.app/)
 
+<!-- Emoji berwarna -->
+🌟🌟🌟🌟🌟
 
 </div>
