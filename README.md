@@ -5,7 +5,7 @@
 
 ## Tentang Saya
 
-Saya adalah seorang Muhamad Salman Fauzi, seorang Mahasiswa dengan minat dalam web development. Saya percaya bahwa teknologi dapat membawa perubahan positif dalam kehidupan orang-orang dan saya berkomitmen untuk menyumbangkan bagian saya dalam mewujudkannya.
+Nama Saya adalah Muhamad Salman Fauzi, seorang Mahasiswa dengan minat dalam web development. Saya percaya bahwa teknologi dapat membawa perubahan positif dalam kehidupan orang-orang dan saya berkomitmen untuk menyumbangkan bagian saya dalam mewujudkannya.
 
 ## Minat
 
