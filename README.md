@@ -19,5 +19,5 @@ Anda bisa menemukan saya di beberapa platform online:
 
 - 💼 [Instagram](https://www.instagram.com/muh.salfazi/):sosial media.
 - 🐦 [discord](https://discord.com/invite/nnXW5mPe): Untuk berbagi pemikiran dan pengalaman.
-- 🌐 [Website Pribadi](https://muhsalfazi-portofolio.netlify.app/)
+- 🌐 [Portofolio](https://muhsalfazi-portofolio.netlify.app/)
 
