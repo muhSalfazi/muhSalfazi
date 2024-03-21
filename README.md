@@ -7,9 +7,9 @@ Nama Saya adalah Muhamad Salman Fauzi, seorang Mahasiswa dengan minat dalam web 
 
 ## Temukan Saya
 Anda bisa menemukan saya di beberapa platform online:
-- 💼 Instagram: Untuk sosial media.
-- 🐦 Discord: Untuk berbagi pemikiran dan pengalaman.
-- 🌐 Portofolio
+- 💼 [Instagram](https://www.instagram.com/muh.salfazi/): Untuk sosial media.
+  - 🐦 [Discord](https://discord.com/invite/nnXW5mPe): Untuk berbagi pemikiran dan pengalaman.
+  - 🌐 [Portofolio](https://muhsalfazi-portofolio.netlify.app/)
 
 🌟🌟🌟🌟🌟
 
