@@ -6,14 +6,14 @@
 </p>
 
 
-<div align="center" style="margin: 20px; padding: 20px; background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); background-size: 400% 400%; animation: gradient 15s ease infinite; border-radius: 15px; border: 2px solid #333; color: white;">
-<!--   <style>
-    @keyframes gradient {
-      0% {background-position: 0% 50%;}
-      50% {background-position: 100% 50%;}
-      100% {background-position: 0% 50%;}
+<div align="center" style="margin: 20px; padding: 20px; border-radius: 15px; border: 2px solid #333; color: white; animation: gradient-bg 15s ease infinite;">
+  <style>
+    @keyframes gradient-bg {
+      0% {background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);}
+      50% {background: linear-gradient(-45deg, #23d5ab, #23a6d5, #e73c7e, #ee7752);}
+      100% {background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);}
     }
-  </style> -->
+  </style>
 
   ## Tentang Saya
   Nama saya adalah **Muhamad Salman Fauzi**, seorang Mahasiswa dengan minat dalam **web development**. Saya percaya bahwa teknologi dapat membawa perubahan positif dalam kehidupan orang-orang dan saya berkomitmen untuk menyumbangkan bagian saya dalam mewujudkannya.
@@ -59,4 +59,3 @@
 - **Editor**: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - **Local Server**: ![Laragon](https://img.shields.io/badge/Laragon-FF2D20?style=for-the-badge&logo=laragon&logoColor=white)
 - **Database**: ![PHPMyAdmin](https://img.shields.io/badge/PHPMyAdmin-4479A1?style=for-the-badge&logo=phpmyadmin&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-000000?style=for-the-badge&logoColor=white)
-  
