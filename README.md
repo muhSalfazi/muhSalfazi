@@ -2,18 +2,12 @@
 
 <p align="center">
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=FFFFFF&background=transparent&center=true&vCenter=true&width=500&height=70&lines=Hi,+I'm+Muhamad+Salman+Fauzi;Welcome+to+my+GitHub!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Hi,+I'm+Muhamad+Salman+Fauzi;Welcome+to+my+GitHub!" alt="Typing SVG">
 </p>
 
 
 <div align="center" style="margin: 20px; padding: 20px; border-radius: 15px; border: 2px solid #333; color: white; background-color: transparent; background-image: url('https://cdn.pixabay.com/photo/2016/12/26/17/28/background-1932466_960_720.png'); background-size: cover; background-blend-mode: multiply;">
-  <style>
-    @keyframes moveText {
-      0% { transform: translateX(-50%); }
-      50% { transform: translateX(50%); }
-      100% { transform: translateX(-50%); }
-    }
-  </style>
+  
 
   ## Tentang Saya
   Nama saya adalah **Muhamad Salman Fauzi**, seorang Mahasiswa dengan minat dalam **web development**. Saya percaya bahwa teknologi dapat membawa perubahan positif dalam kehidupan orang-orang dan saya berkomitmen untuk menyumbangkan bagian saya dalam mewujudkannya.
