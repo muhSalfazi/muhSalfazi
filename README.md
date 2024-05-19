@@ -1,8 +1,10 @@
 <h1 align="center">Halo, Dunia! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=FFFFFF&background=45D5F75A&center=true&vCenter=true&width=500&height=70&lines=Hi,+I'm+Muhamad+Salman+Fauzi;Web+Developer+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=FFFFFF&background=45D5F75A&center=true&vCenter=true&width=500&height=70&lines=Hi,+I'm+Muhamad+Salman+Fauzi;Web+Developer+%7C+Tech+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG">
 </p>
+
 
 <div align="center" style="margin: 20px; padding: 20px; background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); background-size: 400% 400%; animation: gradient 15s ease infinite; border-radius: 15px; border: 2px solid #333; color: white;">
 <!--   <style>
@@ -36,13 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhsalfazi&layout=compact&theme=radical" alt="Top Langs">
 </p>
 
-##<div align="center">
- ## <h3 align="center">Repositori Unggulan</h3>
- ## <p align="center">
-    <a href="https://github.com/muhsalfazi/repo1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=muhsalfazi&repo=repo1&theme=radical"></a>
-    <a href="https://github.com/muhsalfazi/repo2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=muhsalfazi&repo=repo2&theme=radical"></a>
-##  </p>
-##</div>
 
 ## Bahasa yang Saya Gunakan
 <div align="center">
