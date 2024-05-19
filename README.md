@@ -5,7 +5,13 @@
 </p>
 
 <div align="center" style="margin: 20px; padding: 20px; background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); background-size: 400% 400%; animation: gradient 15s ease infinite; border-radius: 15px; border: 2px solid #333; color: white;">
- 
+<!--   <style>
+    @keyframes gradient {
+      0% {background-position: 0% 50%;}
+      50% {background-position: 100% 50%;}
+      100% {background-position: 0% 50%;}
+    }
+  </style> -->
 
   ## Tentang Saya
   Nama saya adalah **Muhamad Salman Fauzi**, seorang Mahasiswa dengan minat dalam **web development**. Saya percaya bahwa teknologi dapat membawa perubahan positif dalam kehidupan orang-orang dan saya berkomitmen untuk menyumbangkan bagian saya dalam mewujudkannya.
@@ -26,8 +32,28 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhsalfazi&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhsalfazi&layout=compact&theme=radical" alt="Top Langs">
 </p>
 
+##<div align="center">
+ ## <h3 align="center">Repositori Unggulan</h3>
+ ## <p align="center">
+    <a href="https://github.com/muhsalfazi/repo1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=muhsalfazi&repo=repo1&theme=radical"></a>
+    <a href="https://github.com/muhsalfazi/repo2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=muhsalfazi&repo=repo2&theme=radical"></a>
+##  </p>
+##</div>
 
+## Bahasa yang Saya Gunakan
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</div>
+
+## Framework yang Saya Gunakan
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+</div>
