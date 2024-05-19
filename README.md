@@ -54,7 +54,17 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
 
-## Tools yang Saya Gunakan
-- **Editor**: Visual Studio Code
-- **Local Server**: Laragon
-- **Database**: PHPMyAdmin, DBvier
+## Tools yang Saya Gunakan 💻
+
+- **Editor**: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
+  Visual Studio Code adalah editor kode sumber yang dikembangkan oleh Microsoft. Ini memiliki dukungan lintas platform dan fitur-fitur kaya yang membuatnya menjadi pilihan utama bagi para pengembang.
+
+- **Local Server**: ![Laragon](https://img.shields.io/badge/Laragon-FF2D20?style=for-the-badge&logo=laragon&logoColor=white)
+  
+  Laragon adalah lingkungan pengembangan PHP yang kuat dan mudah digunakan untuk Windows. Ini menyediakan server lokal yang terintegrasi dengan Apache, MySQL, dan PHP, serta fitur-fitur tambahan yang mempermudah pengembangan web.
+
+- **Database**: ![PHPMyAdmin](https://img.shields.io/badge/PHPMyAdmin-4479A1?style=for-the-badge&logo=phpmyadmin&logoColor=white) ![DBvier](https://img.shields.io/badge/DBvier-FFA500?style=for-the-badge&logoColor=white)
+  
+  PHPMyAdmin adalah aplikasi web open source yang memberikan antarmuka grafis untuk mengelola basis data MySQL. DBvier adalah alat manajemen dan visualisasi basis data yang memungkinkan Anda untuk menjelajahi, menganalisis, dan memantau database Anda dengan mudah.
+
