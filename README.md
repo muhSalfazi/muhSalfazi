@@ -1,16 +1,39 @@
-<div style="background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); background-size: 400% 400%; animation: gradient 15s ease infinite; padding: 20px; border-radius: 10px; border: 2px solid #333; color: white;">
+<h1 align="center">Halo, Dunia! 👋</h1>
 
-# Halo, Dunia! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=FFFFFF&background=45D5F75A&center=true&vCenter=true&width=500&height=70&lines=Hi,+I'm+Muhamad+Salman+Fauzi;Web+Developer+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
+</p>
 
-## Tentang Saya
-Nama Saya adalah Muhamad Salman Fauzi, seorang Mahasiswa dengan minat dalam web development. Saya percaya bahwa teknologi dapat membawa perubahan positif dalam kehidupan orang-orang dan saya berkomitmen untuk menyumbangkan bagian saya dalam mewujudkannya.
+<div align="center" style="margin: 20px; padding: 20px; background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); background-size: 400% 400%; animation: gradient 15s ease infinite; border-radius: 15px; border: 2px solid #333; color: white;">
+  <style>
+    @keyframes gradient {
+      0% {background-position: 0% 50%;}
+      50% {background-position: 100% 50%;}
+      100% {background-position: 0% 50%;}
+    }
+  </style>
 
-## Temukan Saya
-Anda bisa menemukan saya di beberapa platform online:
-- 💼 [Instagram](https://www.instagram.com/muh.salfazi/): Untuk sosial media.
-- 🐦 [Discord](https://discord.com/invite/nnXW5mPe): Untuk berbagi pemikiran dan pengalaman.
-- 🌐 [Portofolio](https://muhsalfazi-profile.netlify.app/)
+  ## Tentang Saya
+  Nama saya adalah **Muhamad Salman Fauzi**, seorang Mahasiswa dengan minat dalam **web development**. Saya percaya bahwa teknologi dapat membawa perubahan positif dalam kehidupan orang-orang dan saya berkomitmen untuk menyumbangkan bagian saya dalam mewujudkannya.
 
-🌟🌟🌟🌟🌟
+  <br>
+
+  ## Temukan Saya
+  Anda bisa menemukan saya di beberapa platform online:
+
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muh.salfazi/)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/nnXW5mPe)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://muhsalfazi-profile.netlify.app/)
+
+  <br>
+
+  🌟🌟🌟🌟🌟
 
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Langs">
+</p>
+
+
