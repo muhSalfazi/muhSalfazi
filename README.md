@@ -7,13 +7,7 @@
 
 
 <div align="center" style="margin: 20px; padding: 20px; border-radius: 15px; border: 2px solid #333; color: white; animation: gradient-bg 15s ease infinite;">
-  <style>
-    @keyframes gradient-bg {
-      0% {background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);}
-      50% {background: linear-gradient(-45deg, #23d5ab, #23a6d5, #e73c7e, #ee7752);}
-      100% {background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);}
-    }
-  </style>
+
 
   ## Tentang Saya
   Nama saya adalah **Muhamad Salman Fauzi**, seorang Mahasiswa dengan minat dalam **web development**. Saya percaya bahwa teknologi dapat membawa perubahan positif dalam kehidupan orang-orang dan saya berkomitmen untuk menyumbangkan bagian saya dalam mewujudkannya.
