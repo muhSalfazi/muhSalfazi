@@ -1,4 +1,3 @@
-<h1 align="center">Halo, Dunia! 👋</h1>
 
 <p align="center">
  <p align="center">
