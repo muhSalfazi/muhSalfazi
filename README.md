@@ -49,4 +49,3 @@
 
 - **Editor**: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - **Local Server**: ![Laragon](https://img.shields.io/badge/Laragon-FF2D20?style=for-the-badge&logo=laragon&logoColor=white)
-- **Database**: ![PHPMyAdmin](https://img.shields.io/badge/PHPMyAdmin-4479A1?style=for-the-badge&logo=phpmyadmin&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-000000?style=for-the-badge&logoColor=white)
