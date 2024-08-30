@@ -4,7 +4,7 @@
 
 <div align="center" style="margin: 20px; padding: 20px; border-radius: 15px; border: 2px solid #333; color: white; background-color: #282c34; background-image: linear-gradient(135deg, #007acc, #ff2d20); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   <h2 style="font-family: 'Roboto', sans-serif; color: #ffffff;">About Me</h2>
-  <p style="font-family: 'Roboto', sans-serif; color: #ffffff;">Hi, I'm <strong>Muhamad Salman Fauzi</strong>, a passionate <strong>web developer</strong> and student. I believe in the power of technology to make a positive impact on people's lives, and I'm committed to contributing my part in making that happen.</p>
+  <p style="font-family: 'Roboto', sans-serif; color: #ffffff;">Hi, I'm <strong>Muhamad Salman Fauzi</strong>, a passionate <strong>Back End developer</strong> and student. I believe in the power of technology to make a positive impact on people's lives, and I'm committed to contributing my part in making that happen.</p>
   
   <h2 style="font-family: 'Roboto', sans-serif; color: #ffffff;">Find Me Online</h2>
   <p>
