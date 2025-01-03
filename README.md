@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Hi,+I'm+Muhamad+Salman+Fauzi;Welcome+to+my+GitHub!" alt="Typing SVG">
+  ![rb_2148222501](https://github.com/user-attachments/assets/8b010886-e4bd-4804-9c88-762eb59eb8c8)
 </p>
 
 <div align="center" style="margin: 20px; padding: 20px; border-radius: 15px; border: 2px solid #333; color: white; background-color: #1e1e2f; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);">
@@ -42,12 +42,6 @@
 </div>
 
 ---
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhsalfazi&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhsalfazi&theme=radical" alt="GitHub Streak">
-</p>
 
 ### 🚀 Top Languages:
 <p align="center">
