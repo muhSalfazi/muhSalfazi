@@ -1,7 +1,10 @@
 <p align="center">
-  ![rb_2148222501](https://github.com/user-attachments/assets/8b010886-e4bd-4804-9c88-762eb59eb8c8)
+  <img src="https://raw.githubusercontent.com/muhsalfazi/portfolio/main/images/rb_2148222501.png" alt="Developer Illustration" width="600">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Hi,+I'm+Muhamad+Salman+Fauzi;Welcome+to+my+GitHub!" alt="Typing SVG">
+</p>
 <div align="center" style="margin: 20px; padding: 20px; border-radius: 15px; border: 2px solid #333; color: white; background-color: #1e1e2f; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);">
   <h2 style="font-family: 'Roboto', sans-serif; color: #ffffff;">About Me</h2>
   <p style="font-family: 'Roboto', sans-serif; color: #dcdcdc;">I am a student at Universitas Buana Perjuangan Karawang, currently in my 5th semester. I am passionate about web development, especially in backend technologies. I believe that blending aesthetic and functional design is key to creating outstanding products.</p>
