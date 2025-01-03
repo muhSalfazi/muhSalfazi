@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Hi,+I'm+Muhamad+Salman+Fauzi;Welcome+to+my+GitHub!" alt="Typing SVG">
 </p>
 
-<div align="center" style="margin: 20px; padding: 20px; border-radius: 15px; border: 2px solid #333; color: white; background-color: #282c34; background-image: linear-gradient(135deg, #007acc, #ff2d20); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+<div align="center" style="margin: 20px; padding: 20px; border-radius: 15px; border: 2px solid #333; color: white; background-color: #1e1e2f; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);">
   <h2 style="font-family: 'Roboto', sans-serif; color: #ffffff;">About Me</h2>
-  <p style="font-family: 'Roboto', sans-serif; color: #ffffff;">Saya adalah mahasiswa di Universitas Buana Perjuangan Karawang, saat ini berada di semester 5. Saya memiliki minat dan keahlian dalam pengembangan web, terutama pada sisi backend. Saya sangat tertarik dalam menciptakan pengalaman pengguna yang menarik dan intuitif. Saya yakin bahwa kombinasi antara desain yang estetis dan fungsional adalah kunci untuk menciptakan produk yang luar biasa.</p>
+  <p style="font-family: 'Roboto', sans-serif; color: #dcdcdc;">I am a student at Universitas Buana Perjuangan Karawang, currently in my 5th semester. I am passionate about web development, especially in backend technologies. I believe that blending aesthetic and functional design is key to creating outstanding products.</p>
   
   <h2 style="font-family: 'Roboto', sans-serif; color: #ffffff;">Find Me Online</h2>
   <p>
@@ -40,3 +40,16 @@
     <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   </p>
 </div>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhsalfazi&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhsalfazi&theme=radical" alt="GitHub Streak">
+</p>
+
+### 🚀 Top Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhsalfazi&layout=compact&theme=radical" alt="Top Languages">
+</p>
