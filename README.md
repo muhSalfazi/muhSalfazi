@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/muhSalfazi/muhSalfazi/main/images/rb_2148222501.png" alt="Developer Illustration" width="600">
 </p>
-![rb_2148222501](https://github.com/user-attachments/assets/708e6ac9-de2f-453f-9cff-7fd6462b0c97)
+
+![4956926_2592318](https://github.com/user-attachments/assets/18bcdce1-517c-4bac-b03a-e4e7d8a90cda)
 
 
 <p align="center">
