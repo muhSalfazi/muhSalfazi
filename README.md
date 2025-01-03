@@ -2,6 +2,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/muhSalfazi/muhSalfazi/main/images/4956926_2592318.jpg" alt="Developer Illustration" width="500" style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);">
 </p>
+![4956926_2592318](https://github.com/user-attachments/assets/57ae603a-4d5e-44e7-ae20-036985475567)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Hi,+I'm+Muhamad+Salman+Fauzi;Welcome+to+my+GitHub!" alt="Typing SVG">
