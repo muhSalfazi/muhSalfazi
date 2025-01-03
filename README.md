@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muhsalfazi/portfolio/main/images/rb_2148222501.png" alt="Developer Illustration" width="600">
+  <img src="https://raw.githubusercontent.com/muhSalfazi/muhSalfazi/main/images/rb_2148222501.png" alt="Developer Illustration" width="600">
 </p>
+![rb_2148222501](https://github.com/user-attachments/assets/708e6ac9-de2f-453f-9cff-7fd6462b0c97)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Hi,+I'm+Muhamad+Salman+Fauzi;Welcome+to+my+GitHub!" alt="Typing SVG">
