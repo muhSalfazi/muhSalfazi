@@ -1,16 +1,15 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muhSalfazi/muhSalfazi/main/images/4956926_2592318.jpg" alt="Developer Illustration" width="500" style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);">
-</p>
-![4956926_2592318](https://github.com/user-attachments/assets/57ae603a-4d5e-44e7-ae20-036985475567)
-
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Hi,+I'm+Muhamad+Salman+Fauzi;Welcome+to+my+GitHub!" alt="Typing SVG">
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fb97f55d-ef0d-4fcc-ad37-d38586da3324" alt="Developer Illustration" width="600" height="300" style="border-radius: 0; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3); border: 3px solid #007acc; transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 15px 40px rgba(0, 0, 0, 0.5)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 10px 30px rgba(0, 0, 0, 0.3)';">
+</p>
+
 <div align="center" style="margin: 20px; padding: 20px; border-radius: 15px; border: 2px solid #333; color: white; background-color: #1e1e2f; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);">
   <h2 style="font-family: 'Roboto', sans-serif; color: #ffffff;">About Me</h2>
-  <p style="font-family: 'Roboto', sans-serif; color: #dcdcdc;">I am a student at Universitas Buana Perjuangan Karawang, currently in my 5th semester. I am passionate about web development, especially in backend technologies. I believe that blending aesthetic and functional design is key to creating outstanding products.</p>
+  <p style="font-family: 'Roboto', sans-serif; color: #dcdcdc;"> Saya adalah mahasiswa di Universitas Buana Perjuangan Karawang, saat ini berada di semester 5. Saya memiliki ketertarikan dalam pengembangan web, terutama dalam teknologi backend. Saya percaya bahwa menggabungkan desain estetis dan fungsional adalah kunci dalam menciptakan produk  yang luar biasa.</p>
   
   <h2 style="font-family: 'Roboto', sans-serif; color: #ffffff;">Find Me Online</h2>
   <p>
