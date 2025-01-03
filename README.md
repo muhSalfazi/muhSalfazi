@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/muhSalfazi/muhSalfazi/main/images/rb_2148222501.png](https://github.com/user-attachments/assets/18bcdce1-517c-4bac-b03a-e4e7d8a90cda)" alt="Developer Illustration" width="600">
+  <img src="https://raw.githubusercontent.com/muhSalfazi/muhSalfazi/main/images/4956926_2592318.jpg" alt="Developer Illustration" width="500" style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);">
 </p>
 
 <p align="center">
